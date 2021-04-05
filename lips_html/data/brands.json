@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "brand":"Dior",
+            "imageUrl":"images/brands/dior.png"
+        },
+        {
+            "brand":"YSL",
+            "imageUrl":"images/brands/ysl.png"
+        }
+    ]
+}
